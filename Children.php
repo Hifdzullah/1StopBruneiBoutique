@@ -278,8 +278,8 @@ img {vertical-align: middle;}
 		 <div id="body" style=" padding-bottom:50px;" >
 		<div class="menu-1">
 		  <a href ="Children_main_page.php" rel="page">Sales</button>
-		  <a href="Children_new_arrival.php" rel="page">Trending Now</a>
-		  <a href="Children_trending.php" rel="page">New Arrival</a>
+		  <a href="Children_trending.php" rel="page">Trending Now</a>
+		  <a href="Children_new_arrival.php" rel="page">New Arrival</a>
 		</div>
 			<div id="load">
 		
